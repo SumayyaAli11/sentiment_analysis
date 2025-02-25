@@ -122,7 +122,7 @@ The following preprocessing steps are applied to the review text:
 ---
 
 ## Dataset
-The dataset used in this project is stored in `output.csv`. It contains the following columns:
+The dataset used in this project is stored in `McDonald_review.csv`. It contains the following columns:
 - `reviewer_id`
 - `store_name`
 - `category`
